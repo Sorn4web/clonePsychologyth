@@ -8,8 +8,8 @@ h1 {
     margin: 0;
     margin-bottom: 1vh;
     color: white;
-    font-weight: 600;
-    font-size: 3rem;
+    font-weight: 500;
+    font-size: 2.8rem;
 }
 
 p {
@@ -25,7 +25,7 @@ button {
     background-color: transparent;
     height: 40px;
     border-radius: 25px;
-    border: 1px solid white;
+    border: 2px solid white;
 }
 
 button.but1 {

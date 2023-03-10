@@ -13,7 +13,9 @@ function AppLanding() {
         </p>
       </div>
       <div className="button">
-        <button className="but1">ช่วยฉันที !!</button>
+        <a href="https://psychologyth.com/help-center">
+          <button className="but1">ช่วยฉันที !!</button>
+        </a>
         <button className="but2">ฉันไม่เป็นไร พาฉันเข้าสู่เว็บไซต์</button>
       </div>
     </div>
